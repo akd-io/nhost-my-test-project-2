@@ -10,7 +10,7 @@ services:
     admin_secret: hasura-admin-secret
   hasura_backend_plus:
     port: 9001
-    version: v2.4.0
+    version: v2.6.1
   minio:
     port: 9000
     version: latest
